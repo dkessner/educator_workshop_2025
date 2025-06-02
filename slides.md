@@ -157,33 +157,84 @@ Image credits:
 
 ]
 
-
 ---
 
-### CV: cancer detection
-
-![](pix/headline_abiraterone.png)
-https://www.theguardian.com/society/2025/may/30/new-ai-test-can-predict-which-men-will-benefit-from-prostate-cancer-drug
-
----
 
 ### CV: face / body detection
+
+TODO
 
 example: dance concert
 
 
----
-
-### Central Dogma
-
-DNA -> RNA -> protein
 
 ---
 
-### Alpha Fold
 
-structure prediction
+### Cancer diagnosis
 
+* foundation models for digital pathology
+
+<img src="pix/headline_cancer.png" width="85%"/>
+
+https://news.harvard.edu/gazette/story/2024/09/new-ai-tool-can-diagnose-cancer-guide-treatment-predict-patient-survival/
+
+
+---
+
+### Personalized medicine
+
+<img src="pix/headline_abiraterone.png" width="95%"/>
+
+https://www.theguardian.com/society/2025/may/30/new-ai-test-can-predict-which-men-will-benefit-from-prostate-cancer-drug
+
+
+---
+
+### Weather Prediction
+
+- prediction improvments of up to 20%
+- ~1000x decrease in energy use
+
+<img src="pix/headline_aifs.png" width="95%"/>
+
+https://www.ecmwf.int/en/about/media-centre/news/2025/ecmwfs-ai-forecasts-become-operational
+
+---
+
+### Hype
+
+<img src="pix/headline_hype.png" width="95%"/>
+
+https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres
+
+
+
+---
+
+### Central Dogma of Molecular Biology
+
+<img src="pix/Central_Dogma_of_Molecular_Biochemistry_with_Enzymes.jpg" width="50%"/>
+
+[Image credit](https://commons.wikimedia.org/w/index.php?curid=15183788)
+
+---
+
+### AlphaFold
+
+Protein structure prediction
+
+.split-50[
+
+.column[
+<img src="pix/Protein_folding_figure.png" width="100%"/>
+]
+
+.column[
+<img src="pix/screenshot_alphafold.png" width="100%"/>
+]
+
+]
 
 ---
 
@@ -194,40 +245,6 @@ structure prediction
 
 + CRISPR story - child genetic defect, personalized medicine
 
-
----
-
-### AI coding assistants
-
-AI agents / aider
-
-
-
----
-
-### Math & Science Concepts
-
-<br/>
-
-- Linear regression
-
-<br/>
-
-- Linear algebra
-    - vectors
-    - dot product
-    - matrix multiplication
-    - linear transformations
-
-<br/>
-
-- Calculus 
-    - derivatives
-    - minimization / maximization of functions
-        - Newton's method
-    - multivariable functions
-        - gradients
-    - chain rule
 
 
 ---

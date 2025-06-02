@@ -162,6 +162,9 @@ Image credits:
 
 ### CV: cancer detection
 
+![](pix/headline_abiraterone.png)
+https://www.theguardian.com/society/2025/may/30/new-ai-test-can-predict-which-men-will-benefit-from-prostate-cancer-drug
+
 ---
 
 ### CV: face / body detection

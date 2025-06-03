@@ -64,7 +64,7 @@ __Ellison Institute of Technology__
 
 ---
 
-### Neural networks
+### Neural Networks
 
 .split-60[
 
@@ -104,7 +104,7 @@ training == adjusting weights to decrease loss
 
 ---
 
-### Neural networks 
+### Neural Networks 
 
 
 .center[
@@ -133,7 +133,7 @@ calculation of gradient
 
 ---
 
-### Computer vision
+### Computer Vision
 
 .split-50[
 
@@ -160,18 +160,15 @@ Image credits:
 ---
 
 
-### CV: face / body detection
+### Computer Vision: Face Detection
 
-TODO
-
-example: dance concert
-
+<img src="pix/screenshot_opencv.png" width="85%"/>
 
 
 ---
 
 
-### Cancer diagnosis
+### Cancer Diagnosis
 
 * foundation models for digital pathology
 
@@ -182,7 +179,7 @@ https://news.harvard.edu/gazette/story/2024/09/new-ai-tool-can-diagnose-cancer-g
 
 ---
 
-### Personalized medicine
+### Personalized Medicine
 
 <img src="pix/headline_abiraterone.png" width="95%"/>
 
@@ -238,12 +235,21 @@ Protein structure prediction
 
 ---
 
-### Drug discovery
-
-+ genAI -> new sequences
+### Drug Discovery
 
 
-+ CRISPR story - child genetic defect, personalized medicine
+<img src="pix/headline_drugs.png" width="90%"/>
+
+https://www.technologyreview.com/2023/02/15/1067904/ai-automation-drug-development/
+
+
+---
+
+### Personalized Medicine
+
+<img src="pix/headline_crispr.png" width="90%"/>
+
+https://www.science.org/content/article/gene-editing-therapy-made-just-6-months-helps-baby-life-threatening-disease
 
 
 
@@ -254,11 +260,8 @@ Protein structure prediction
 .center[
 
 <br/>
-dkessner.github.io/educator_workshop_2025
+https://dkessner.github.io/educator_workshop_2025
 <br/>
-
-<img src="pix/qr.png" width="30%"/>
-TODO: replace QR code  
 
 <br/>
 

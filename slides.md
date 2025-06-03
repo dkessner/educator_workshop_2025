@@ -260,7 +260,7 @@ https://www.science.org/content/article/gene-editing-therapy-made-just-6-months-
 .center[
 
 <br/>
-https://dkessner.github.io/educator_workshop_2025
+[dkessner.github.io/educator_workshop_2025](http://dkessner.github.io/educator_workshop_2025)  
 <br/>
 
 <br/>

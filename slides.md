@@ -8,12 +8,13 @@
 
 Dr. Darren Kessner  
 Marlborough School   
+<br/>  
 Educator Workshops  
-June 3, 2025
+October 9, 2026
 
 <br/> <br/>
 
-[dkessner.github.io/educator_workshop_2025](http://dkessner.github.io/educator_workshop_2025)  
+[dkessner.github.io/educator_workshop_2026](http://dkessner.github.io/educator_workshop_2026)  
 ]
 
 ---
@@ -260,7 +261,7 @@ https://www.science.org/content/article/gene-editing-therapy-made-just-6-months-
 .center[
 
 <br/>
-[dkessner.github.io/educator_workshop_2025](http://dkessner.github.io/educator_workshop_2025)  
+[dkessner.github.io/educator_workshop_2026](http://dkessner.github.io/educator_workshop_2026)  
 <br/>
 
 <br/>
